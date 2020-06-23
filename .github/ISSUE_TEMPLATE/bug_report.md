@@ -40,8 +40,6 @@ What is your game's resolution?
 **Player Data:**
 Write /info whilst ingame and provide the information you're given.
 
-**Server:**
-What server/community are you from? Main, India, Bangladesh, etc.
 
 **Notes:**
 For anything else noteworthy.
